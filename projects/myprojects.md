@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /myprojects/
 ---
 
 ## Data Science | Data Analytics | Business Analytics Projects
