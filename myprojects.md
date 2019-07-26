@@ -8,6 +8,7 @@ permalink: /myprojects/
 
 
 #### Data Projects
+
 * [ATP Tennis Data Discovery and Win Prediction | Python/Jupyter Notebook](hansenme747/ATP/ATP_Data_project.ipynb)
 * [Indeed Job Platform, Candidates Resume Scrape | Python/Jupyter Notebook](hansenme747/resume_scrape/Indeed_Resume_scraping.ipynb)
 * [Mobile Analytics | R](hansenme747/WebMobileUsageAnalytics/hansenme_MobileAnalytics.html)
