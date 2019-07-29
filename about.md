@@ -10,13 +10,13 @@ I spend my free time working on personal data science projects, cycling or playi
 
 ### Education Background
 
-#### University of California, Irvine
-##### Graduate
+### University of California, Irvine
+#### Graduate
 Master of Science, Business Analytics | Paul Merage School of Business
 
 Focuses: Advanced machine learning, predictive analytics, deep learning, business analytics, marketing analytics
 
-##### Undergraduate
+#### Undergraduate
 Bachelor of Science, Cognitive Science (with Honors), concentration in Neuroscience, minor in Statistics
 
 
