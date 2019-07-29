@@ -14,6 +14,6 @@ permalink: /projects/
 * [Mobile Analytics | R]()
 
 #### Reports
-* [Super Bowl Predictions (Predictive Analytics | R, Alteryx, Tableau)]()
+* [Super Bowl Predictions (Predictive Analytics | R, Alteryx, Tableau)](projects/SB_predict_final_version.html)
 
 
