@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<img src="fullsizeoutput_120a.JPEG" alt="Photo of Mason Hansen" height="200"/>
+<img src="fullsizeoutput_120a.jpeg" alt="Photo of Mason Hansen" height="200"/>
 
 My name is Mason Eric Hansen, I am a recent graduate from the University of California, Irvine (UCI) Master's of Science in Business Analyics. I also received my Bachelor's of Science in Cognitive Science, with a concentration in Neuroscience from UCI. 
 
