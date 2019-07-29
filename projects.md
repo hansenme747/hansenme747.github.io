@@ -6,4 +6,4 @@ permalink: /projects/
 
 #### Data Projects
 
-* [ATP Tennis Data Discovery and Win Prediction - Python/Jupyter Notebook](/projects/ATP_data_project.html)
+* [ATP Tennis Data Discovery and Win Prediction Model](/projects/ATP_data_project.html)
