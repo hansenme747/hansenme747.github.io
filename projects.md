@@ -9,7 +9,7 @@ permalink: /projects/
 
 #### Data Projects
 
-* [ATP Tennis Data Discovery and Win Prediction - Python/Jupyter Notebook](projects/ATP_data_project.ipynb)
+* [ATP Tennis Data Discovery and Win Prediction - Python/Jupyter Notebook](projects/ATP_data_project.html)
 * [Indeed Job Platform, Candidates Resume Scrape | Python/Jupyter Notebook]()
 * [Mobile Analytics | R]()
 
