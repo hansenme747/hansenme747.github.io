@@ -2,7 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+
+![]({{site.baseurl}}//fullsizeoutput_120a.jpeg)
 
 My name is Mason Eric Hansen, I am a recent graduate from the University of California, Irvine (UCI) Master's of Science in Business Analyics. I also received my Bachelor's of Science in Cognitive Science, with a concentration in Neuroscience from UCI. 
 
