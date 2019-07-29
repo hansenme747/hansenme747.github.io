@@ -13,6 +13,7 @@ I spend my free time working on personal data science projects, cycling or playi
 #### University of California, Irvine
 ##### Graduate
 Master of Science, Business Analytics | Paul Merage School of Business
+
 Focuses: Advanced machine learning, predictive analytics, deep learning, business analytics, marketing analytics
 
 ##### Undergraduate
