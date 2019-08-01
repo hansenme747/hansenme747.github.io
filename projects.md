@@ -14,4 +14,4 @@ permalink: /projects/
 * [Super Bowl Analytics and Prediction](/projects/SB_predict_final_version.html)
 
 #### Kaggle Competitions
-* [Titanic | Learning Competition](/projects/Titanic_Kaggle.html)
+* [Titanic Learning Competition](/projects/Titanic_Kaggle.html)
