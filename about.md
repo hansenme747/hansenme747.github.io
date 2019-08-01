@@ -4,22 +4,28 @@ title: About
 permalink: /about/
 published: true
 ---
-My name is Mason Eric Hansen, I am a recent graduate from the University of California, Irvine (UCI) Master's of Science in Business Analyics. I also received my Bachelor's of Science in Cognitive Science, with a concentration in Neuroscience from UCI. 
+My name is Mason Eric Hansen, and I am currently seeking employment as a Data Analyst, Datascient or related role. I am a recent graduate from the University of California, Irvine (UCI) Master's of Science in Business Analyics. I also received my Bachelor's of Science in Cognitive Science, with a concentration in Neuroscience from UCI. 
 
 I spend my free time working on personal data science projects, cycling or playing tennis.
 
-### Education Background
+### Background
 
 ### University of California, Irvine
-#### Graduate
+#### Graduate Degree
 Master of Science, Business Analytics | Paul Merage School of Business
 
-Focuses: Advanced machine learning, predictive analytics, deep learning, business analytics, marketing analytics
+Focuses: Advanced machine learning, predictive analytics, deep learning, business analytics, marketing analytics.
 
-#### Undergraduate
+#### Undergraduate Degree
 Bachelor of Science, Cognitive Science (with Honors), concentration in Neuroscience, minor in Statistics
+
+#### Tennis
+Played three years of NCAA Div. I tennis for UCI after not being recruited by any collegiate teams out of high school. Finished last year as team captain and primarlity playing both singles and doubles, while posting a 5-1 record at the number 3 singles position. 
+
+Watch my tennis ["Walk & Talk"](https://www.youtube.com/watch?v=qkfzuhf91E8) interview at UCI (Spring 2019).
 
 
 ### Contact me
 
 [masoneric747@gmail.com](mailto:masoneric747@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/masonhansen747/)
