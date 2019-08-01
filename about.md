@@ -28,4 +28,5 @@ Watch my tennis ["Walk & Talk"](https://www.youtube.com/watch?v=qkfzuhf91E8) int
 ### Contact me
 
 [masoneric747@gmail.com](mailto:masoneric747@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/masonhansen747/)
