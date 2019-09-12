@@ -6,7 +6,7 @@
 name: Mason Eric Hansen
 
 #Theme
-theme: gridster
+remote_theme: Phlow/feeling-responsive
 
 # Short bio or description (displayed in the header)
 description: Data Analytics | Data Science | Tennis
