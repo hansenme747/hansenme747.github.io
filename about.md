@@ -8,6 +8,9 @@ My name is Mason Eric Hansen, and I am currently seeking employment as a Data An
 
 I spend my free time working on personal data science projects, cycling or playing tennis.
 
+![profile_pictrure](/profile.png =250x250)
+
+
 ### Background
 
 ### University of California, Irvine
