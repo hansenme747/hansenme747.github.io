@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: Post
 title: Welcome
 permalink: /Welcome/
 ---
