@@ -8,7 +8,7 @@ My name is Mason Eric Hansen, and I am currently seeking employment as a Data An
 
 I spend my free time working on personal data science projects, cycling or playing tennis.
 
-![profile_pictrure](profile.png)<!-- .element height="50%" width="50%" -->
+<img src="profile.png" width="40%">.
 
 
 ### Background
