@@ -3,7 +3,6 @@ layout: page
 title: Welcome
 permalink: /Welcome/
 ---
-### Welcome!
 
 Welcome to my website, where I can share my passion for data science and tennis with ohters! 
 
