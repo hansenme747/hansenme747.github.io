@@ -6,7 +6,7 @@
 name: Mason Eric Hansen
 
 #Theme
-remote_theme: DigitalMindCH/gridster-jekyll-theme
+theme: gridster
 
 # Short bio or description (displayed in the header)
 description: Data Analytics | Data Science | Tennis
