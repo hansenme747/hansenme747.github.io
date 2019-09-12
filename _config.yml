@@ -1,8 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-#Theme
-remote_theme: Phlow/feeling-responsive
+
 
 # Name of your site (displayed in the header)
 name: Mason Eric Hansen
